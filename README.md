@@ -12,7 +12,7 @@ You can create your own dataset or collaborate with others.
 
 #### Collaboration
 
-Ask Fidel to give you the access to the shared dataset. If you want to label trash as 9 classes, so it can be trained on MMDetection. The object template example [here](https://segments.ai/liudiyang/ARC_MMDETECTION/) 
+Ask Fidel to give you the access to the shared dataset. Current labels include 9 classes. You can change the classes to make it more reasonable. The object template example [here](https://segments.ai/liudiyang/ARC_MMDETECTION/) 
 
 #### Create new dataset
 
