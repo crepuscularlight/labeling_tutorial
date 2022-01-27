@@ -28,7 +28,7 @@ Click `New dataset` , add descriptions , select the labeling type(bounding box, 
 
 Adjust the super pixel size to a reasonable value.
 
-Click the object, select the label and click `space` key to end one object annotation. After this you can click next object and repeat the procedure.
+Click the object, select the label and press `space` key to end annotation for this object. After this you can click next object and repeat the procedure.
 
 ![](assets/README/example.png)
 
