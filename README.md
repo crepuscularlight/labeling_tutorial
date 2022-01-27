@@ -30,6 +30,8 @@ Adjust the super pixel size to a reasonable value.
 
 Click the object, select the label and click `space` key to end one object annotation. After this you can click next object and repeat the procedure.
 
+![](assets/README/example.png)
+
 
 
 ### Step 4
